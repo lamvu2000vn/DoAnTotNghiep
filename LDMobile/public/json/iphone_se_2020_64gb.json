@@ -1,0 +1,246 @@
+{
+    "thong_so_ky_thuat": {
+        "man_hinh": {
+            "cong_nghe_mh": "IPS LCD",
+            "do_phan_giai": "HD (750 x 1334 Pixels)",
+            "ty_le_mh": 4.7,
+            "kinh_cam_ung": "Kính cường lực Oleophobic (ion cường lực)"
+        },
+        "camera_sau": {
+            "do_phan_giai": "12 MP",
+            "quay_phim": [
+                {
+                    "chat_luong": "4K 2160p@30fps"
+                },
+                {
+                    "chat_luong": "4K 2160p@60fps"
+                },
+                {
+                    "chat_luong": "4K 2160p@24fps"
+                },
+                {
+                    "chat_luong": "FullHD 1080p@30fps"
+                },
+                {
+                    "chat_luong": "FullHD 1080p@60fps"
+                },
+                {
+                    "chat_luong": "HD 720p@30fps"
+                },
+                {
+                    "chat_luong": "FullHD 1080p@240fps"
+                },
+                {
+                    "chat_luong": "FullHD 1080p@120fps"
+                }
+            ],
+            "den_flash": "4 đèn LED 2 tông màu",
+            "tinh_nang": [
+                {
+                    "name": "Zoom kỹ thuật số"
+                },
+                {
+                    "name": "HDR"
+                },
+                {
+                    "name": "Nhận diện khuôn mặt"
+                },
+                {
+                    "name": "Tự động lấy nét (AF)"
+                },
+                {
+                    "name": "Chống rung quang học (OIS)"
+                },
+                {
+                    "name": "Toàn cảnh (Panorama)"
+                },
+                {
+                    "name": "Chạm lấy nét"
+                },
+                {
+                    "name": "Lấy nét theo pha (PDAF)"
+                },
+                {
+                    "name": "Xóa phông"
+                }
+            ]
+        },
+        "camera_truoc": {
+            "do_phan_giai": "7 MP",
+            "tinh_nang": [
+                {
+                    "name": "Quay video HD"
+                },
+                {
+                    "name": "Chống rung điện tử kỹ thuật số (EIS)"
+                },
+                {
+                    "name": "Xóa phông"
+                },
+                {
+                    "name": "Nhận diện khuôn mặt"
+                },
+                {
+                    "name": "Tự động lấy nét (AF)"
+                },
+                {
+                    "name": "HDR"
+                }
+            ]
+        },
+        "HDH_CPU": {
+            "HDH": "iOS 14",
+            "CPU": "Apple A13 Bionic 6 nhân",
+            "CPU_speed": "2 nhân 2.65 GHz & 4 nhân 1.8 GHz",
+            "GPU": "Apple GPU 4 nhân"
+        },
+        "luu_tru": {
+            "RAM": "3 GB",
+            "bo_nho_trong": "64 GB",
+            "bo_nho_con_lai": "Khoảng 59 GB",
+            "the_nho": ""
+        },
+        "ket_noi": {
+            "mang_mobile": "Hỗ trợ 4G",
+            "SIM": "1 Nano SIM & 1 eSIM",
+            "wifi": [
+                {
+                    "name": "Wi-Fi 802.11 a/b/g/n/ac/ax"
+                },
+                {
+                    "name": "Dual-band (2.4 GHz/5 GHz)"
+                },
+                {
+                    "name": "Wi-Fi hotspot"
+                }
+            ],
+            "GPS": [
+                {
+                    "name": "A-GPS"
+                },
+                {
+                    "name": "GLONASS"
+                }
+            ],
+            "bluetooth": [
+                {
+                    "name": "A2DP"
+                },
+                {
+                    "name": "v5.0"
+                },
+                {
+                    "name": "LE"
+                }
+            ],
+            "cong_sac": "Lightning",
+            "jack_tai_nghe": "Lightning",
+            "ket_noi_khac": [
+                {
+                    "name": "OTG"
+                }
+            ]
+        },
+        "thiet_ke_trong_luong": {
+            "thiet_ke": "Nguyên khối",
+            "chat_lieu": "Khung kim loại & Mặt lưng kính",
+            "kich_thuoc": "Dài 138.4 mm - Ngang 67.3 mm - Dày 7.3 mm",
+            "khoi_luong": "148 g"
+        },
+        "pin": {
+            "loai": "Li-Ion",
+            "dung_luong": "1821 mAh",
+            "cong_nghe": [
+                {
+                    "name": "Sạc pin nhanh"
+                },
+                {
+                    "name": "Sạc không dây"
+                },
+                {
+                    "name": "Tiết kiệm pin"
+                }
+            ]
+        },
+        "tien_ich": {
+            "bao_mat": [
+                {
+                    "name": "Mở khoá khuôn mặt Face ID"
+                }
+            ],
+            "tinh_nang_khac": [
+                {
+                    "name": "Apple Pay"
+                },
+                {
+                    "name": "Kháng nước, kháng bụi"
+                },
+                {
+                    "name": "Âm thanh Dolby Audio"
+                }
+            ],
+            "ghi_am": "Có (microphone chuyên dụng chống ồn)",
+            "xem_phim": [
+                {
+                    "name": "H.265"
+                },
+                {
+                    "name": "H.264(MPEG4-AVC)"
+                },
+                {
+                    "name": "H.263"
+                },
+                {
+                    "name": "WMV"
+                },
+                {
+                    "name": "AVI"
+                },
+                {
+                    "name": "MP4"
+                },
+                {
+                    "name": "3GP"
+                }
+            ],
+            "nghe_nhac": [
+                {
+                    "name": "WAV"
+                },
+                {
+                    "name": "WMA"
+                },
+                {
+                    "name": "AAC+"
+                },
+                {
+                    "name": "AAC++"
+                },
+                {
+                    "name": "eAAC+"
+                },
+                {
+                    "name": "WMA9"
+                },
+                {
+                    "name": "FLAC"
+                },
+                {
+                    "name": "Lossless"
+                },
+                {
+                    "name": "Midi"
+                },
+                {
+                    "name": "MP3"
+                },
+                {
+                    "name": "AAC"
+                }
+            ]
+        }
+    },
+    "thong_tin_khac": {
+        "thoi_diem_ra_mat": "06/2020"
+    }
+}

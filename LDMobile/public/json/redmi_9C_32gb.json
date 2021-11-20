@@ -1,0 +1,192 @@
+{
+    "thong_so_ky_thuat": {
+        "man_hinh": {
+            "cong_nghe_mh": "IPS LCD",
+            "do_phan_giai": "HD+ (720 x 1600 Pixels)",
+            "ty_le_mh": 6.53,
+            "kinh_cam_ung": "Kính cường lực Corning Gorilla Glass 3"
+        },
+        "camera_sau": {
+            "do_phan_giai": "Chính 13 MP & Phụ 2 MP, 2 MP",
+            "quay_phim": [
+                {
+                    "chat_luong": "FullHD 1080p@30fps"
+                },
+                {
+                    "chat_luong": "HD 720p@30fps"
+                }
+            ],
+            "den_flash": "Có",
+            "tinh_nang": [
+                {
+                    "name": "Quay chậm (Slow Motion)"
+                },
+                {
+                    "name": "A.I Camera"
+                },
+                {
+                    "name": "HDR"
+                },
+                {
+                    "name": "Night Mode"
+                },
+                {
+                    "name": "Gốc siêu rộng"
+                },
+                {
+                    "name": "Xóa phông"
+                },
+                {
+                    "name": "Siêu cận(Macro)"
+                },
+                {
+                    "name": "Tự động lấy nét (AF)"
+                }
+            ]
+        },
+        "camera_truoc": {
+            "do_phan_giai": "5 MP",
+            "tinh_nang": [
+                {
+                    "name": "A.I Camera"
+                },
+                {
+                    "name": "Quay video HD"
+                },
+                {
+                    "name": "Xóa phông"
+                },
+                {
+                    "name": "HDR"
+                },
+                {
+                    "name": "Tự động lấy nét (AF)"
+                }
+            ]
+        },
+        "HDH_CPU": {
+            "HDH": "Android 10",
+            "CPU": "MediaTek Helio G35 8 nhân",
+            "CPU_speed": "4 nhân 2.3 GHz & 4 nhân 1.8 GHz",
+            "GPU": "IMG PowerVR GE8320"
+        },
+        "luu_tru": {
+            "RAM": "3GB",
+            "bo_nho_trong": "32GB",
+            "bo_nho_con_lai": "Khoảng 25 GB",
+            "the_nho": "MicroSD, hỗ trợ tối đa 512GB"
+        },
+        "ket_noi": {
+            "mang_mobile": "Hỗ trợ 4G",
+            "SIM": "2 Nano SIM",
+            "wifi": [
+                {
+                    "name": "Wi-Fi hotspot"
+                },
+                {
+                    "name": "Wi-Fi Direct"
+                },
+                {
+                    "name": "Wi-Fi 802.11 a/b/g/n/ac"
+                },
+                {
+                    "name": "Dual-band (2.4 GHz/5 GHz)"
+                }
+            ],
+            "GPS": [
+                {
+                    "name": "GLONASS"
+                },
+                {
+                    "name": "A-GPS"
+                }
+            ],
+            "bluetooth": [
+                {
+                    "name": "v5.0"
+                },
+                {
+                    "name": "LE"
+                },
+                {
+                    "name": "A2DP"
+                }
+            ],
+            "cong_sac": "Type-C",
+            "jack_tai_nghe": "3.5 mm",
+            "ket_noi_khac": [
+                {
+                    "name": "OTG"
+                },
+                {
+                    "name": "Hồng ngoại"
+                }
+            ]
+        },
+        "thiet_ke_trong_luong": {
+            "thiet_ke": "Nguyên khối",
+            "chat_lieu": "Khung nhựa & Mặt lưng nhựa",
+            "kich_thuoc": "Dài 164.9 mm - Ngang 77.07 mm - Dày 9.0 mm",
+            "khoi_luong": "196 g"
+        },
+        "pin": {
+            "loai": "Li-Po",
+            "dung_luong": "5000 mAh",
+            "cong_nghe": [
+                {
+                    "name": "Sạc pin nhanh"
+                }
+            ]
+        },
+        "tien_ich": {
+            "bao_mat": [
+                {
+                    "name": "Mở khóa bằng vân tay"
+                }
+            ],
+            "tinh_nang_khac": [
+                {
+                    "name": "Ghi âm cuộc gọi"
+                },
+                {
+                    "name": "Chặn cuộc gọi"
+                },
+                {
+                    "name": "Nhân bản ứng dụng"
+                },
+                {
+                    "name": "Chặn tin nhắn"
+                },
+                {
+                    "name": "Đa cửa sổ (chia đôi màn hình)"
+                },
+                {
+                    "name": "Thu nhỏ màn hình sử dụng một tay"
+                },
+                {
+                    "name": "Chạm 2 lần sáng màn hình"
+                }
+            ],
+            "ghi_am": "Có",
+            "xem_phim": [
+                {
+                    "name": "MP4"
+                },
+                {
+                    "name": "3GP"
+                }
+            ],
+            "nghe_nhac": [
+                {
+                    "name": "MP3"
+                },
+                {
+                    "name": "AAC"
+                }
+            ]
+        }
+    },
+    "thong_tin_khac": {
+        "thoi_diem_ra_mat": "07/2020"
+    }
+}

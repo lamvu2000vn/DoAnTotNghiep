@@ -1,0 +1,254 @@
+[
+    {
+        "ID": "01",
+        "Name": "Hà Nội"
+    },
+    {
+        "ID": "02",
+        "Name": "Hà Giang"
+    },
+    {
+        "ID": "04",
+        "Name": "Cao Bằng"
+    },
+    {
+        "ID": "06",
+        "Name": "Bắc Kạn"
+    },
+    {
+        "ID": "08",
+        "Name": "Tuyên Quang"
+    },
+    {
+        "ID": "10",
+        "Name": "Lào Cai"
+    },
+    {
+        "ID": "11",
+        "Name": "Điện Biên"
+    },
+    {
+        "ID": "12",
+        "Name": "Lai Châu"
+    },
+    {
+        "ID": "14",
+        "Name": "Sơn La"
+    },
+    {
+        "ID": "15",
+        "Name": "Yên Bái"
+    },
+    {
+        "ID": "17",
+        "Name": "Hoà Bình"
+    },
+    {
+        "ID": "19",
+        "Name": "Thái Nguyên"
+    },
+    {
+        "ID": "20",
+        "Name": "Lạng Sơn"
+    },
+    {
+        "ID": "22",
+        "Name": "Quảng Ninh"
+    },
+    {
+        "ID": "24",
+        "Name": "Bắc Giang"
+    },
+    {
+        "ID": "25",
+        "Name": "Phú Thọ"
+    },
+    {
+        "ID": "26",
+        "Name": "Vĩnh Phúc"
+    },
+    {
+        "ID": "27",
+        "Name": "Bắc Ninh"
+    },
+    {
+        "ID": "30",
+        "Name": "Hải Dương"
+    },
+    {
+        "ID": "31",
+        "Name": "Hải Phòng"
+    },
+    {
+        "ID": "33",
+        "Name": "Hưng Yên"
+    },
+    {
+        "ID": "34",
+        "Name": "Thái Bình"
+    },
+    {
+        "ID": "35",
+        "Name": "Hà Nam"
+    },
+    {
+        "ID": "36",
+        "Name": "Nam Định"
+    },
+    {
+        "ID": "37",
+        "Name": "Ninh Bình"
+    },
+    {
+        "ID": "38",
+        "Name": "Thanh Hóa"
+    },
+    {
+        "ID": "40",
+        "Name": "Nghệ An"
+    },
+    {
+        "ID": "42",
+        "Name": "Hà Tĩnh"
+    },
+    {
+        "ID": "44",
+        "Name": "Quảng Bình"
+    },
+    {
+        "ID": "45",
+        "Name": "Quảng Trị"
+    },
+    {
+        "ID": "46",
+        "Name": "Thừa Thiên Huế"
+    },
+    {
+        "ID": "48",
+        "Name": "Đà Nẵng"
+    },
+    {
+        "ID": "49",
+        "Name": "Quảng Nam"
+    },
+    {
+        "ID": "51",
+        "Name": "Quảng Ngãi"
+    },
+    {
+        "ID": "52",
+        "Name": "Bình Định"
+    },
+    {
+        "ID": "54",
+        "Name": "Phú Yên"
+    },
+    {
+        "ID": "56",
+        "Name": "Khánh Hòa"
+    },
+    {
+        "ID": "58",
+        "Name": "Ninh Thuận"
+    },
+    {
+        "ID": "60",
+        "Name": "Bình Thuận"
+    },
+    {
+        "ID": "62",
+        "Name": "Kon Tum"
+    },
+    {
+        "ID": "64",
+        "Name": "Gia Lai"
+    },
+    {
+        "ID": "66",
+        "Name": "Đắk Lắk"
+    },
+    {
+        "ID": "67",
+        "Name": "Đắk Nông"
+    },
+    {
+        "ID": "68",
+        "Name": "Lâm Đồng"
+    },
+    {
+        "ID": "70",
+        "Name": "Bình Phước"
+    },
+    {
+        "ID": "72",
+        "Name": "Tây Ninh"
+    },
+    {
+        "ID": "74",
+        "Name": "Bình Dương"
+    },
+    {
+        "ID": "75",
+        "Name": "Đồng Nai"
+    },
+    {
+        "ID": "77",
+        "Name": "Bà Rịa - Vũng Tàu"
+    },
+    {
+        "ID": "79",
+        "Name": "Hồ Chí Minh"
+    },
+    {
+        "ID": "80",
+        "Name": "Long An"
+    },
+    {
+        "ID": "82",
+        "Name": "Tiền Giang"
+    },
+    {
+        "ID": "83",
+        "Name": "Bến Tre"
+    },
+    {
+        "ID": "84",
+        "Name": "Trà Vinh"
+    },
+    {
+        "ID": "86",
+        "Name": "Vĩnh Long"
+    },
+    {
+        "ID": "87",
+        "Name": "Đồng Tháp"
+    },
+    {
+        "ID": "89",
+        "Name": "An Giang"
+    },
+    {
+        "ID": "91",
+        "Name": "Kiên Giang"
+    },
+    {
+        "ID": "92",
+        "Name": "Cần Thơ"
+    },
+    {
+        "ID": "93",
+        "Name": "Hậu Giang"
+    },
+    {
+        "ID": "94",
+        "Name": "Sóc Trăng"
+    },
+    {
+        "ID": "95",
+        "Name": "Bạc Liêu"
+    },
+    {
+        "ID": "96",
+        "Name": "Cà Mau"
+    }
+]

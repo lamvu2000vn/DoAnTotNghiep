@@ -1,0 +1,237 @@
+{
+    "thong_so_ky_thuat": {
+        "man_hinh": {
+            "cong_nghe_mh": "AMOLED",
+            "do_phan_giai": "Full HD+ (1080 x 2400 Pixels)",
+            "ty_le_mh": 6.43,
+            "kinh_cam_ung": "Kính cường lực Corning Gorilla Glass 3+"
+        },
+        "camera_sau": {
+            "do_phan_giai": "Chính 64 MP & Phụ 8 MP, 2 MP, 2 MP",
+            "quay_phim": [
+                {
+                    "chat_luong": "4K 2160p@30fps"
+                },
+                {
+                    "chat_luong": "FullHD 1080p@30fps"
+                },
+                {
+                    "chat_luong": "FullHD 1080p@60fps"
+                },
+                {
+                    "chat_luong": "FullHD 1080p@120fps"
+                },
+                {
+                    "chat_luong": "HD 720p@60fps"
+                },
+                {
+                    "chat_luong": "HD 720p@30fps"
+                }
+            ],
+            "den_flash": "Có",
+            "tinh_nang": [
+                {
+                    "name": "Quay chậm (Slow Motion)"
+                },
+                {
+                    "name": "A.I Camera"
+                },
+                {
+                    "name": "HDR"
+                },
+                {
+                    "name": "Night Mode"
+                },
+                {
+                    "name": "Gốc rộng wide"
+                },
+                {
+                    "name": "Xóa phông"
+                },
+                {
+                    "name": "Tự động lấy nét (AF)"
+                },
+                {
+                    "name": "Nhãn dán Sticker"
+                }
+            ]
+        },
+        "camera_truoc": {
+            "do_phan_giai": "44 MP",
+            "tinh_nang": [
+                {
+                    "name": "A.I Camera"
+                },
+                {
+                    "name": "Quay video HD"
+                },
+                {
+                    "name": "Quay video Full HD"
+                },
+                {
+                    "name": "Xóa phông"
+                },
+                {
+                    "name": "HDR"
+                },
+                {
+                    "name": "Tự động lấy nét (AF)"
+                },
+                {
+                    "name": "Nhận diện khuôn mặt"
+                }
+            ]
+        },
+        "HDH_CPU": {
+            "HDH": "Android 11",
+            "CPU": "Snapdragon 720G 8 nhân",
+            "CPU_speed": "2 nhân 2.3 Ghz & 6 nhân 1.8 Ghz",
+            "GPU": "Adreno 618"
+        },
+        "luu_tru": {
+            "RAM": "8 GB",
+            "bo_nho_trong": "128 GB",
+            "bo_nho_con_lai": "Khoảng 115 GB",
+            "the_nho": ""
+        },
+        "ket_noi": {
+            "mang_mobile": "Hỗ trợ 4G",
+            "SIM": "2 Nano SIM",
+            "wifi": [
+                {
+                    "name": "Wi-Fi hotspot"
+                },
+                {
+                    "name": "Wi-Fi Direct"
+                },
+                {
+                    "name": "Wi-Fi 802.11 a/b/g/n/ac"
+                },
+                {
+                    "name": "Dual-band (2.4 GHz/5 GHz)"
+                }
+            ],
+            "GPS": [
+                {
+                    "name": "GLONASS"
+                },
+                {
+                    "name": "A-GPS"
+                },
+                {
+                    "name": "BDS"
+                }
+            ],
+            "bluetooth": [
+                {
+                    "name": "v5.1"
+                },
+                {
+                    "name": "LE"
+                },
+                {
+                    "name": "A2DP"
+                }
+            ],
+            "cong_sac": "Type-C",
+            "jack_tai_nghe": "3.5 mm",
+            "ket_noi_khac": [
+                {
+                    "name": "OTG"
+                },
+                {
+                    "name": "NFC"
+                }
+            ]
+        },
+        "thiet_ke_trong_luong": {
+            "thiet_ke": "Nguyên khối",
+            "chat_lieu": "Khung nhựa phủ sơn kim loại & Mặt lưng thuỷ tinh hữu cơ",
+            "kich_thuoc": "Dài 159.1 mm - Ngang 73.4 mm - Dày 7.7 mm",
+            "khoi_luong": "171 g"
+        },
+        "pin": {
+            "loai": "Li-Po",
+            "dung_luong": "4310 mAh",
+            "cong_nghe": [
+                {
+                    "name": "Sạc pin nhanh"
+                },
+                {
+                    "name": "Tiết kiệm pin"
+                }
+            ]
+        },
+        "tien_ich": {
+            "bao_mat": [
+                {
+                    "name": "Mở khoá khuôn mặt"
+                },
+                {
+                    "name": "Mở khóa bằng vân tay dưới màn hình"
+                }
+            ],
+            "tinh_nang_khac": [
+                {
+                    "name": "Ghi âm cuộc gọi"
+                },
+                {
+                    "name": "Chặn cuộc gọi"
+                },
+                {
+                    "name": "Không gian trò chơi"
+                },
+                {
+                    "name": "Không gian trẻ em"
+                },
+                {
+                    "name": "Khóa ứng dụng"
+                },
+                {
+                    "name": "Nhân bản ứng dụng"
+                },
+                {
+                    "name": "Chặn tin nhắn"
+                },
+                {
+                    "name": "Đa cửa sổ (chia đôi màn hình)"
+                },
+                {
+                    "name": "Thu nhỏ màn hình sử dụng một tay"
+                },
+                {
+                    "name": "Trợ lí ảo"
+                }
+            ],
+            "ghi_am": "Có (microphone chuyên dụng chống ồn)",
+            "xem_phim": [
+                {
+                    "name": "H.263P"
+                },
+                {
+                    "name": "MP4"
+                },
+                {
+                    "name": "3GP"
+                },
+                {
+                    "name": "H.264(MPEG4-AVC)"
+                }
+            ],
+            "nghe_nhac": [
+                {
+                    "name": "WMA"
+                },
+                {
+                    "name": "MP3"
+                },
+                {
+                    "name": "AAC"
+                }
+            ]
+        }
+    },
+    "thong_tin_khac": {
+        "thoi_diem_ra_mat": "12/2020"
+    }
+}

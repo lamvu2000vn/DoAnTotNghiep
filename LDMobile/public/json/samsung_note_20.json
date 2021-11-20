@@ -1,0 +1,291 @@
+{
+    "thong_so_ky_thuat": {
+        "man_hinh": {
+            "cong_nghe_mh": "Super AMOLED Plus",
+            "do_phan_giai": "Full HD+ (1080 x 2400 Pixels)",
+            "ty_le_mh": 6.7,
+            "kinh_cam_ung": "Kính cường lực Corning Gorilla Glass 5"
+        },
+        "camera_sau": {
+            "do_phan_giai": "Chính 12 MP & Phụ 64 MP, 12 MP",
+            "quay_phim": [
+                {
+                    "chat_luong": "8K 4320p@24fps"
+                }
+            ],
+            "den_flash": "Có",
+            "tinh_nang": [
+                {
+                    "name": "Quay Siêu chậm (Super Slow Motion)"
+                },
+                {
+                    "name": "A.I Camera"
+                },
+                {
+                    "name": "Ban đêm (Night Mode)"
+                },
+                {
+                    "name": "Trôi nhanh thời gian (Time Lapse)"
+                },
+                {
+                    "name": "Quay chậm (Slow Motion)"
+                },
+                {
+                    "name": "Xóa phông"
+                },
+                {
+                    "name": "Zoom quang học"
+                },
+                {
+                    "name": "Chạm lấy nét"
+                },
+                {
+                    "name": "Toàn cảnh (Panorama)"
+                },
+                {
+                    "name": "Chống rung quang học (OIS)"
+                },
+                {
+                    "name": "Tự động lấy nét (AF)"
+                },
+                {
+                    "name": "Nhận diện khuôn mặt"
+                },
+                {
+                    "name": "HDR"
+                },
+                {
+                    "name": "Chuyên nghiệp (Pro)"
+                },
+                {
+                    "name": "Nhãn dán (AR Stickers)"
+                },
+                {
+                    "name": "Làm đẹp"
+                },
+                {
+                    "name": "Góc rộng (Wide)"
+                },
+                {
+                    "name": "Góc siêu rộng (Ultrawide)"
+                }
+            ]
+        },
+        "camera_truoc": {
+            "do_phan_giai": "10 MP",
+            "tinh_nang": [
+                {
+                    "name": "Xóa phông"
+                },
+                {
+                    "name": "Nhãn dán (AR Stickers)"
+                },
+                {
+                    "name": "Flash màn hình"
+                },
+                {
+                    "name": "Quay video HD"
+                },
+                {
+                    "name": "Nhận diện khuôn mặt"
+                },
+                {
+                    "name": "Làm đẹp"
+                },
+                {
+                    "name": "Quay video Full HD"
+                },
+                {
+                    "name": "Tự động lấy nét (AF)"
+                },
+                {
+                    "name": "HDR"
+                },
+                {
+                    "name": "A.I Camera"
+                }
+            ]
+        },
+        "HDH_CPU": {
+            "HDH": "Android 10",
+            "CPU": "Exynos 990 8 nhân",
+            "CPU_speed": "2 nhân 2.73 GHz, 2 nhân 2.5 GHz & 4 nhân 2.0 Ghz",
+            "GPU": "Mali-G77 MP11"
+        },
+        "luu_tru": {
+            "RAM": "8 GB",
+            "bo_nho_trong": "256 GB",
+            "bo_nho_con_lai": "Khoảng 223 GB",
+            "the_nho": ""
+        },
+        "ket_noi": {
+            "mang_mobile": "Hỗ trợ 4G",
+            "SIM": "2 Nano SIM hoặc 1 Nano SIM + 1 eSIM",
+            "wifi": [
+                {
+                    "name": "Wi-Fi 802.11 a/b/g/n/ac/ax"
+                },
+                {
+                    "name": "Wi-Fi hotspot"
+                },
+                {
+                    "name": "Dual-band (2.4 GHz/5 GHz)"
+                },
+                {
+                    "name": "Wi-Fi Direct"
+                }
+            ],
+            "GPS": [
+                {
+                    "name": "A-GPS"
+                },
+                {
+                    "name": "GLONASS"
+                },
+                {
+                    "name": "BDS"
+                }
+            ],
+            "bluetooth": [
+                {
+                    "name": "v5.0"
+                },
+                {
+                    "name": "LE"
+                },
+                {
+                    "name": "A2DP"
+                }
+            ],
+            "cong_sac": "Type-C",
+            "jack_tai_nghe": "Type-C",
+            "ket_noi_khac": [
+                {
+                    "name": "OTG"
+                },
+                {
+                    "name": "NFC"
+                }
+            ]
+        },
+        "thiet_ke_trong_luong": {
+            "thiet_ke": "Nguyên khối",
+            "chat_lieu": "Khung kim loại & Mặt lưng nhựa",
+            "kich_thuoc": "Dài 161.6 mm - Ngang 72.5 mm - Dày 8.3 mm",
+            "khoi_luong": "192 g"
+        },
+        "pin": {
+            "loai": "Li-Ion",
+            "dung_luong": "4300 mAh",
+            "cong_nghe": [
+                {
+                    "name": "Sạc pin nhanh"
+                },
+                {
+                    "name": "Sạc không dây"
+                },
+                {
+                    "name": "Siêu tiết kiệm pin"
+                },
+                {
+                    "name": "Tiết kiệm pin"
+                },
+                {
+                    "name": "Sạc ngược không dây"
+                }
+            ]
+        },
+        "tien_ich": {
+            "bao_mat": [
+                {
+                    "name": "Mở khoá khuôn mặt"
+                },
+                {
+                    "name": "Mở khoá bằng vân tay"
+                }
+            ],
+            "tinh_nang_khac": [
+                {
+                    "name": "Âm thanh AKG"
+                },
+                {
+                    "name": "Âm thanh Dolby Audio"
+                },
+                {
+                    "name": "Kháng nước, kháng bụi"
+                },
+                {
+                    "name": "Chặn cuộc gọi"
+                },
+                {
+                    "name": "Chặn tin nhắn"
+                },
+                {
+                    "name": "Màn hình luôn hiển thị AOD"
+                },
+                {
+                    "name": "Trợ lý ảo Samsung Bixby"
+                },
+                {
+                    "name": "Samsung Pay"
+                },
+                {
+                    "name": "Samsung DeX (Kết nối màn hình sử dụng giao diện tương tự PC)"
+                }
+            ],
+            "ghi_am": "Có (microphone chuyên dụng chống ồn)",
+            "xem_phim": [
+                {
+                    "name": "AVI"
+                },
+                {
+                    "name": "MP4"
+                },
+                {
+                    "name": "3GP"
+                },
+                {
+                    "name": "Xvid"
+                },
+                {
+                    "name": "DivX"
+                },
+                {
+                    "name": "H.265"
+                },
+                {
+                    "name": "H.264(MPEG4-AVC)"
+                },
+                {
+                    "name": "H.263"
+                }
+            ],
+            "nghe_nhac": [
+                {
+                    "name": "FLAC"
+                },
+                {
+                    "name": "Midi"
+                },
+                {
+                    "name": "AMR"
+                },
+                {
+                    "name": "eAAC+"
+                },
+                {
+                    "name": "AAC++"
+                },
+                {
+                    "name": "MP3"
+                },
+                {
+                    "name": "WAV"
+                }
+            ]
+        }
+    },
+    "thong_tin_khac": {
+        "thoi_diem_ra_mat": "08/2020"
+    }
+}
